@@ -78,7 +78,7 @@
     <Compile Include="Helper\InputFormatter.cs" />
     <Compile Include="Models\ICalculatorElements.cs" />
     <Compile Include="Models\Windows11CalculatorElements.cs" />
-    <Compile Include="CalculatorUnitTests.cs" />
+    <Compile Include="CalculatorUITests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

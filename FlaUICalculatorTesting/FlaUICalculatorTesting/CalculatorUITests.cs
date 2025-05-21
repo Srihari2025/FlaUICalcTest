@@ -3,7 +3,7 @@
 namespace FlaUICalculatorTesting
 {
     [TestClass]
-    public class CalculatorUnitTests
+    public class CalculatorUITests
     {
         private static CalculatorTester _calculatorTester;
 
